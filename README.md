@@ -1,16 +1,15 @@
-### Hi there 👋
+# Developer Portfolio
 
-<!--
-**Nojyto/Nojyto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello there! I'm a passionate lifelong learner with a keen interest in exploring cutting-edge technologies, tools, and programming languages. My journey involves delving into emerging fields like artificial intelligence and machine learning to tackle real-world problems. Leveraging my diverse experiences in contract work, internships, and personal projects, I've honed strong problem-solving and communication skills.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** C++, C#, Java, Python
+- **Web Development:** React, Tailwind, Typescript, Flask
+- **Other Technologies:** 3D printing, laser cutting, Arduino, ESP32
+
+## About Me
+
+I thrive on challenges and continually seek opportunities to grow and contribute to innovative projects. As a goal-oriented individual, I am excited about collaborating with others to create solutions that positively impact society.
+
+Feel free to explore my repositories and connect with me. Let's innovate and build together! 🚀
