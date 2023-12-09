@@ -1,10 +1,10 @@
 # Developer Portfolio
 
-👋 Hello there! I'm a passionate lifelong learner with a keen interest in exploring cutting-edge technologies, tools, and programming languages. My journey involves delving into emerging fields like artificial intelligence and machine learning to tackle real-world problems. Leveraging my diverse experiences in contract work, internships, and personal projects, I've honed strong problem-solving and communication skills.
+👋 Hello there! I'm a passionate lifelong learner with a keen interest in exploring cutting-edge tools and technologies. My journey involves delving into emerging fields like artificial intelligence and machine learning to tackle real-world problems. Leveraging my diverse experiences in contract work, internships, and personal projects, I've honed strong problem-solving and communication skills.
 
 ## Skills
 
-- **Programming Languages:** C++, C#, Java, Python
+- **Programming Languages:** Python, C++, C#, Java
 - **Web Development:** React, Tailwind, Typescript, Flask
 - **Other Technologies:** 3D printing, laser cutting, Arduino, ESP32
 
