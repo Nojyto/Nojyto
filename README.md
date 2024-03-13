@@ -9,7 +9,7 @@
 ## 📊 GitHub Stats
 
 ![Github statistics](https://github-readme-streak-stats.herokuapp.com/?user=Nojyto&theme=dark&hide_border=false)
-![Most Used Languages]([https://github-readme-stats.vercel.app/api/top-langs/?username=Nojyto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Nojyto&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact))
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nojyto&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🧊 About Me
 
