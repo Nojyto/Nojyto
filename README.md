@@ -19,4 +19,4 @@ Feel free to explore my repositories and connect with me. Let's innovate and bui
 
 ## ☕ Random Dev Meme
 
-![Random Meme](https://randommeme-five.vercel.app/)
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
